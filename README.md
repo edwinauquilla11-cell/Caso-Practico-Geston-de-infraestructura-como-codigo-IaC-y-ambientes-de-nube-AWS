@@ -1,9 +1,9 @@
 # Caso-Pr-ctico-Gesti-n-de-infraestructura-como-c-digo-IaC-y-ambientes-de-nube-AWS
 
-Introducción
-Este repositorio contiene la solución propuesta para los distintos escenarios planteados en la evaluación técnica de Deuna!. El objetivo es demostrar conocimientos en arquitectura cloud sobre AWS, observabilidad, FinOps, infraestructura como código utilizando Terraform y gestión de incidentes en entornos productivos.
 
-Objetivos
+Este repositorio contiene la solución propuesta para los distintos escenarios planteados en la evaluación técnica de Deuna que se encuentran en el archivo de word junto con un zip donde esta la solución de terraform IaC.
+
+
 La solución aborda los siguientes temas:
 
 Monitoreo y alertamiento de microservicios desplegados en Amazon ECS.
