@@ -13,6 +13,7 @@ Implementación de infraestructura segura mediante Terraform.
 Gestión y respuesta ante incidentes críticos en producción.
 
 -------------------Tarea 1: Monitoreo de Escalamiento en ECS--------------------
+
 La propuesta permite detectar cuándo un servicio de ECS llega a su capacidad máxima configurada y ya no puede continuar escalando, aunque la carga siga aumentando.
 
 Componentes principales
@@ -36,6 +37,7 @@ Integración con herramientas de monitoreo existentes.
 Reducción de ruido mediante agrupación de alertas.
 
 ------------------Tarea 2: Costeo por Transacción-----------------------------
+
 La solución permite estimar el costo asociado a operaciones monetarias y no monetarias.
 
 Clasificación
@@ -72,6 +74,7 @@ Resultado esperado
 Obtención del costo promedio por transacción y visibilidad del gasto por categoría para áreas técnicas, financieras y de producto.
 
 ---------------Tarea 3: Infraestructura como Código---------------------------------
+
 La infraestructura se implementa utilizando Terraform, siguiendo buenas prácticas de modularidad, seguridad y reutilización.
 
 Estructura del repositorio
@@ -106,6 +109,7 @@ Rotación automática.
 Sin contraseñas expuestas en el código.
 
 -----Tarea 4: Gestión de Incidentes--------------
+
 Se define un procedimiento para responder a incidencias que afecten servicios críticos como payments-processor.
 
 Proceso de diagnóstico
