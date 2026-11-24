@@ -1,7 +1,7 @@
 # Caso-Pr-ctico-Gesti-n-de-infraestructura-como-c-digo-IaC-y-ambientes-de-nube-AWS
 
 
-Este repositorio contiene la solución propuesta para los distintos escenarios planteados en la evaluación técnica de Deuna que se encuentran en el archivo de word junto con un zip donde esta la solución de terraform IaC.
+Este repositorio contiene la solución propuesta para los distintos escenarios planteados en la evaluación técnica de Deuna que se encuentran en el archivo pdf junto con un zip donde esta la solución de terraform IaC.
 
 
 La solución aborda los siguientes temas:
